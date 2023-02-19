@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\bin\Debug\net6.0\Soal Ketiga.exe
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\bin\Debug\net6.0\Soal Ketiga.deps.json
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\bin\Debug\net6.0\Soal Ketiga.runtimeconfig.json
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\bin\Debug\net6.0\Soal Ketiga.dll
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\bin\Debug\net6.0\Soal Ketiga.pdb
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.AssemblyInfo.cs
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.dll
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\refint\Soal Ketiga.dll
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.pdb
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\Soal Ketiga.genruntimeconfig.cache
+C:\Users\user\Documents\Test Pertamina\Soal Pertama\Soal Ketiga\obj\Debug\net6.0\ref\Soal Ketiga.dll
